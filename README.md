@@ -1,7 +1,7 @@
 
 
-```markdown
-# AI Chatbot Web Application
+
+### AI Chatbot Web Application
 
 Welcome to the AI Chatbot web application repository! This project demonstrates an interactive web-based chat interface that allows users to communicate with an AI model. The frontend is built using HTML, CSS, and JavaScript, while the backend is powered by Flask and integrates with the OpenAI API.
 
