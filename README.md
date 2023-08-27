@@ -15,9 +15,7 @@ The primary goal of this project is to provide an accessible and user-friendly p
 - Real-time display of conversations between the user and the AI.
 - Stylish design with customizable message styling.
 
-## Preview
 
-![Preview](preview.png) <!-- Add a screenshot of your application in action -->
 
 ## Setup and Usage
 
