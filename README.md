@@ -60,7 +60,7 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 
 _This project was created by  team Aayush,Anas,Shivraj,Amir.
 
-For any questions or inquiries, contact me at your.email@example.com.
+For any questions or inquiries, contact me at aayushbankar42@gmail.com
 ```
 
 Feel free to customize the motive section to reflect your project's true motivations and objectives.
